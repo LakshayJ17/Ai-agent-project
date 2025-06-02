@@ -135,6 +135,7 @@ SYSTEM_PROMPT = """
     - "read_file": Takes a file path as an input and returns the content of the file.
     - "select_theme" : Selects a theme from the predefined options.
 
+    
     Example:
     User Query : Create a TODO app in React
     Output : {{"step" : "plan", "content" : "The user is interested in a TODO app using React"}}
